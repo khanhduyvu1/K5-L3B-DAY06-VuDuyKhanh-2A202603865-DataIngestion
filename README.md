@@ -45,3 +45,68 @@ Dùng cùng dữ liệu, model và câu hỏi cho cả ba cấu hình. Tách **1
 | Cách nộp bài | [SUBMISSION.md](SUBMISSION.md) |
 
 [data/format-example.json](data/format-example.json) chỉ minh họa định dạng, không phải corpus đủ điều kiện. Phần xử lý và benchmark do bạn tự hiện thực; không bắt buộc xây chatbot.
+
+---
+
+# Bài làm: Bộ luật Lao động 2012 & 2019
+
+Học viên: **Vũ Duy Khánh** · 2A202603865 · L3B
+Báo cáo: [report/individual/2A202603865_VuDuyKhanh.md](report/individual/2A202603865_VuDuyKhanh.md)
+
+Corpus gồm 462 Điều của Bộ luật Lao động 2012 và 2019. Embedding dùng `intfloat/multilingual-e5-base` chạy local (768 chiều, chi phí 0). Vector store là PostgreSQL 16 + pgvector 0.8.7 chạy trong Docker, tìm kiếm cosine chính xác. Có ba chiến lược:
+- **A:** chia cố định 500 ký tự, overlap 50.
+- **B:** chia theo Điều, tối đa 1.000 ký tự.
+- **C:** như B, thêm filter `year`.
+
+| Strategy | Dev Hit@1 | Dev Hit@3 | Test Hit@1 | Test Hit@3 |
+|---|---|---|---|---|
+| A | 11/18 | 16/18 | 3/6 | 6/6 |
+| B | 14/18 | 17/18 | 5/6 | 6/6 |
+| **C** | **16/18** | 17/18 | **6/6** | 6/6 |
+
+## Cách chạy
+
+Yêu cầu: Docker Desktop, Python 3.11–3.14, khoảng 1,2 GB dung lượng trống cho model. Model được tải tự động ở lần chạy đầu.
+
+```bash
+cd starter
+python3 -m venv .venv && source .venv/bin/activate
+python -m pip install -r requirements.txt
+cp .env.example .env
+docker compose -p day6_student_starter up -d --wait
+python scripts/check_setup.py            # phải hiện "Setup OK"
+
+# Tải corpus (HTML toàn văn, truy cập ngày 2026-11-14; không commit vì chứa nội dung web bên thứ ba)
+curl -sSL -o data/blld-2019_pbgdpl-cantho.html "https://pbgdpl.cantho.gov.vn/attachment/261"
+curl -sSL -A "Mozilla/5.0" -o data/blld-2012_caselaw.html \
+  "https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi"
+
+python -m src.run --rebuild   # ingest -> chunk A/B -> embed -> pgvector -> truy xuất A/B/C -> chỉ số
+python -m src.audit           # kiểm tra metadata + tổng hợp nhãn chấm tay
+
+# Demo: so sánh top-3 của A/B/C
+python -m src.demo --id q03                                  # chạy lại câu benchmark, có chấm Hit
+python -m src.demo "Làm thêm tối đa mấy giờ một tháng?" --year 2019
+python -m src.demo                                           # hỏi tự do; thêm @2019 hoặc @2012 ở cuối câu để lọc năm
+
+docker compose -p day6_student_starter stop   # tắt database, dữ liệu vẫn giữ
+```
+
+`src.run` dừng và báo lỗi trong các trường hợp sau:
+- không tách đủ 242 hoặc 220 Điều;
+- có gold evidence không tìm thấy trong nguồn;
+- benchmark dưới mức tối thiểu;
+- số bản ghi trong DB lệch với số chunk.
+
+Không có fallback sang vector giả. Nếu trang nguồn thay đổi, dùng [data/corpus_articles.jsonl](data/corpus_articles.jsonl) (thân văn bản luật đã tách theo Điều) để đối chiếu.
+
+## Vị trí các file
+
+| Nội dung | Đường dẫn |
+|---|---|
+| Code pipeline | [starter/src/](starter/src/) |
+| Manifest và corpus đã tách | [data/manifest.json](data/manifest.json), [data/corpus_articles.jsonl](data/corpus_articles.jsonl) |
+| Benchmark (24 câu, 18 dev / 6 test) | [benchmark/](benchmark/README.md) |
+| Nhật ký thí nghiệm | [artifacts/experiment_log.csv](artifacts/experiment_log.csv) |
+| Kết quả, trace, thông tin lần chạy | [results/summary.md](results/summary.md), [results/traces.jsonl](results/traces.jsonl), [results/run_info.json](results/run_info.json) |
+| Nhãn chấm tay và audit | [results/audit/](results/audit/), [results/manual_summary.md](results/manual_summary.md) |
