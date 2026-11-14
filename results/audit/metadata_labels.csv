@@ -1,0 +1,55 @@
+strategy,id,rank,chunk_id,document_id,page,pages,year,chuong,question_filter,filter_ok,metadata_correct_complete,problems,note
+A,q19,1,A:blld-2019:0299,blld-2019,169,[169],2019,12,"{""year"": 2019}",True,True,,
+A,q19,2,A:blld-2019:0405,blld-2019,219,[219],2019,17,"{""year"": 2019}",True,True,,
+A,q19,3,A:blld-2019:0300,blld-2019,169,[169],2019,12,"{""year"": 2019}",True,True,,
+A,q20,1,A:blld-2019:0299,blld-2019,169,[169],2019,12,"{""year"": 2012}",False,True,,
+A,q20,2,A:blld-2012:0270,blld-2012,186,"[186, 187]",2012,12,"{""year"": 2012}",True,True,,"chunk trải 2 Điều [186, 187]; trường page chỉ ghi Điều đầu"
+A,q20,3,A:blld-2019:0300,blld-2019,169,[169],2019,12,"{""year"": 2012}",False,True,,
+A,q21,1,A:blld-2019:0215,blld-2019,115,"[115, 116]",2019,7,,,True,,"chunk trải 2 Điều [115, 116]; trường page chỉ ghi Điều đầu"
+A,q21,2,A:blld-2019:0214,blld-2019,114,"[114, 115]",2019,7,,,True,,"chunk trải 2 Điều [114, 115]; trường page chỉ ghi Điều đầu"
+A,q21,3,A:blld-2012:0170,blld-2012,115,"[115, 116]",2012,7,,,True,,"chunk trải 2 Điều [115, 116]; trường page chỉ ghi Điều đầu"
+A,q22,1,A:blld-2012:0080,blld-2012,48,"[48, 49]",2012,3,,,True,,"chunk trải 2 Điều [48, 49]; trường page chỉ ghi Điều đầu"
+A,q22,2,A:blld-2019:0093,blld-2019,46,"[46, 47]",2019,3,,,True,,"chunk trải 2 Điều [46, 47]; trường page chỉ ghi Điều đầu"
+A,q22,3,A:blld-2019:0094,blld-2019,47,"[47, 48]",2019,3,,,True,,"chunk trải 2 Điều [47, 48]; trường page chỉ ghi Điều đầu"
+A,q23,1,A:blld-2012:0160,blld-2012,107,"[107, 108]",2012,7,,,True,,"chunk trải 2 Điều [107, 108]; trường page chỉ ghi Điều đầu"
+A,q23,2,A:blld-2019:0199,blld-2019,105,"[105, 106, 107]",2019,7,,,True,,"chunk trải 3 Điều [105, 106, 107]; trường page chỉ ghi Điều đầu"
+A,q23,3,A:blld-2019:0205,blld-2019,108,"[108, 109]",2019,7,,,True,,"chunk trải 2 Điều [108, 109]; trường page chỉ ghi Điều đầu"
+A,q24,1,A:blld-2019:0353,blld-2019,190,[190],2019,14,,,True,,
+A,q24,2,A:blld-2019:0350,blld-2019,189,[189],2019,14,,,True,,
+A,q24,3,A:blld-2019:0352,blld-2019,189,"[189, 190]",2019,14,,,True,,"chunk trải 2 Điều [189, 190]; trường page chỉ ghi Điều đầu"
+B,q19,1,B:blld-2019:169:0,blld-2019,169,[169],2019,12,"{""year"": 2019}",True,True,,
+B,q19,2,B:blld-2019:219:4,blld-2019,219,[219],2019,17,"{""year"": 2019}",True,True,,
+B,q19,3,B:blld-2019:219:3,blld-2019,219,[219],2019,17,"{""year"": 2019}",True,True,,
+B,q20,1,B:blld-2019:219:6,blld-2019,219,[219],2019,17,"{""year"": 2012}",False,True,,
+B,q20,2,B:blld-2019:219:2,blld-2019,219,[219],2019,17,"{""year"": 2012}",False,True,,
+B,q20,3,B:blld-2012:187:0,blld-2012,187,[187],2012,12,"{""year"": 2012}",True,True,,
+B,q21,1,B:blld-2012:116:0,blld-2012,116,[116],2012,7,,,True,,
+B,q21,2,B:blld-2019:112:0,blld-2019,112,[112],2019,7,,,True,,
+B,q21,3,B:blld-2019:115:0,blld-2019,115,[115],2019,7,,,True,,
+B,q22,1,B:blld-2012:049:0,blld-2012,49,[49],2012,3,,,True,,
+B,q22,2,B:blld-2019:047:0,blld-2019,47,[47],2019,3,,,True,,
+B,q22,3,B:blld-2019:046:0,blld-2019,46,[46],2019,3,,,True,,
+B,q23,1,B:blld-2012:108:0,blld-2012,108,[108],2012,7,,,True,,
+B,q23,2,B:blld-2019:109:0,blld-2019,109,[109],2019,7,,,True,,
+B,q23,3,B:blld-2012:097:0,blld-2012,97,[97],2012,6,,,True,,
+B,q24,1,B:blld-2019:190:0,blld-2019,190,[190],2019,14,,,True,,
+B,q24,2,B:blld-2019:189:0,blld-2019,189,[189],2019,14,,,True,,
+B,q24,3,B:blld-2019:194:0,blld-2019,194,[194],2019,14,,,True,,
+C,q19,1,B:blld-2019:169:0,blld-2019,169,[169],2019,12,"{""year"": 2019}",True,True,,
+C,q19,2,B:blld-2019:219:4,blld-2019,219,[219],2019,17,"{""year"": 2019}",True,True,,
+C,q19,3,B:blld-2019:219:3,blld-2019,219,[219],2019,17,"{""year"": 2019}",True,True,,
+C,q20,1,B:blld-2012:187:0,blld-2012,187,[187],2012,12,"{""year"": 2012}",True,True,,
+C,q20,2,B:blld-2012:240:1,blld-2012,240,[240],2012,17,"{""year"": 2012}",True,True,,
+C,q20,3,B:blld-2012:161:0,blld-2012,161,[161],2012,11,"{""year"": 2012}",True,True,,
+C,q21,1,B:blld-2012:116:0,blld-2012,116,[116],2012,7,,,True,,
+C,q21,2,B:blld-2019:112:0,blld-2019,112,[112],2019,7,,,True,,
+C,q21,3,B:blld-2019:115:0,blld-2019,115,[115],2019,7,,,True,,
+C,q22,1,B:blld-2012:049:0,blld-2012,49,[49],2012,3,,,True,,
+C,q22,2,B:blld-2019:047:0,blld-2019,47,[47],2019,3,,,True,,
+C,q22,3,B:blld-2019:046:0,blld-2019,46,[46],2019,3,,,True,,
+C,q23,1,B:blld-2012:108:0,blld-2012,108,[108],2012,7,,,True,,
+C,q23,2,B:blld-2019:109:0,blld-2019,109,[109],2019,7,,,True,,
+C,q23,3,B:blld-2012:097:0,blld-2012,97,[97],2012,6,,,True,,
+C,q24,1,B:blld-2019:190:0,blld-2019,190,[190],2019,14,,,True,,
+C,q24,2,B:blld-2019:189:0,blld-2019,189,[189],2019,14,,,True,,
+C,q24,3,B:blld-2019:194:0,blld-2019,194,[194],2019,14,,,True,,

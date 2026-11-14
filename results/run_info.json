@@ -1,0 +1,141 @@
+{
+  "started_at_utc": "2026-11-14T03:23:29.968645+00:00",
+  "python": "3.14.4",
+  "platform": "macOS-27.2.1-arm64-arm-64bit-Mach-O",
+  "embedding": {
+    "provider": "local sentence-transformers",
+    "model": "intfloat/multilingual-e5-base",
+    "dimensions": 768,
+    "max_seq_length": 512,
+    "device": "mps",
+    "query_prefix": "query: ",
+    "document_prefix": "passage: ",
+    "normalized": true
+  },
+  "vector_store": {
+    "backend": "PostgreSQL 16 + pgvector 0.8.7 (Docker)",
+    "table": "chunks",
+    "metric": "cosine (<=>)",
+    "search": "exact (sequential scan, no ANN index)"
+  },
+  "packages": {
+    "sentence-transformers": "6.3.0",
+    "torch": "2.15.0",
+    "transformers": "5.23.0",
+    "psycopg": "3.3.8",
+    "pgvector": "0.5.1",
+    "beautifulsoup4": "4.15.0",
+    "numpy": "2.5.4"
+  },
+  "strategies": {
+    "A": {
+      "index": "A",
+      "chunking": "fixed_size_stream size=500 overlap=50 (bỏ qua ranh giới Điều)",
+      "filter": false
+    },
+    "B": {
+      "index": "B",
+      "chunking": "by_article max_size=1000 (giữ Điều, tách theo khoản, lặp tiêu đề)",
+      "filter": false
+    },
+    "C": {
+      "index": "B",
+      "chunking": "giống B (dùng chung index B)",
+      "filter": true
+    }
+  },
+  "chunk_params": {
+    "A": {
+      "size": 500,
+      "overlap": 50
+    },
+    "B": {
+      "max_size": 1000
+    }
+  },
+  "top_k": 3,
+  "cost_usd": 0,
+  "ingest_parse_seconds": 0.2,
+  "index_timing": {
+    "A": {
+      "embedded": 772,
+      "skipped_unchanged": 0,
+      "embed_seconds": 10.82,
+      "store_seconds": 0.11,
+      "upsert": {
+        "before": 0,
+        "written": 772,
+        "deleted_stale": 0,
+        "after": 772
+      }
+    },
+    "B": {
+      "embedded": 600,
+      "skipped_unchanged": 0,
+      "embed_seconds": 9.63,
+      "store_seconds": 0.09,
+      "upsert": {
+        "before": 0,
+        "written": 600,
+        "deleted_stale": 0,
+        "after": 600
+      }
+    }
+  },
+  "reingest_check": {
+    "A": {
+      "embedded": 0,
+      "skipped_unchanged": 772,
+      "embed_seconds": 0.0,
+      "store_seconds": 0.03,
+      "upsert": {
+        "before": 772,
+        "written": 0,
+        "deleted_stale": 0,
+        "after": 772
+      }
+    },
+    "B": {
+      "embedded": 0,
+      "skipped_unchanged": 600,
+      "embed_seconds": 0.0,
+      "store_seconds": 0.03,
+      "upsert": {
+        "before": 600,
+        "written": 0,
+        "deleted_stale": 0,
+        "after": 600
+      }
+    }
+  },
+  "row_counts": {
+    "A": 772,
+    "B": 600
+  },
+  "chunk_stats": {
+    "A": {
+      "count": 772,
+      "chars_total": 383251,
+      "chars_min": 314,
+      "chars_median": 497.0,
+      "chars_mean": 496.4,
+      "chars_max": 499,
+      "tokens_total": 100890,
+      "tokens_max": 164,
+      "chunks_over_model_max_tokens": 0,
+      "multi_article_chunks": 451
+    },
+    "B": {
+      "count": 600,
+      "chars_total": 357352,
+      "chars_min": 67,
+      "chars_median": 584.0,
+      "chars_mean": 595.6,
+      "chars_max": 1000,
+      "tokens_total": 93216,
+      "tokens_max": 285,
+      "chunks_over_model_max_tokens": 0,
+      "multi_article_chunks": 0
+    }
+  }
+}

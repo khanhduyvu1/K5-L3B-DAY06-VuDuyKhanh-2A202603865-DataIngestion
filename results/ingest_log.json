@@ -1,0 +1,22 @@
+[
+  {
+    "document_id": "blld-2012",
+    "event": "skip_preamble",
+    "paragraphs": 3
+  },
+  {
+    "document_id": "blld-2012",
+    "event": "stop_at_signature",
+    "text": "Bộ luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII, "
+  },
+  {
+    "document_id": "blld-2019",
+    "event": "skip_preamble",
+    "paragraphs": 5
+  },
+  {
+    "document_id": "blld-2019",
+    "event": "stop_at_signature",
+    "text": "Bộ luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ h"
+  }
+]

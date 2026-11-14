@@ -1,0 +1,94 @@
+{
+  "A": {
+    "all": {
+      "n": 24,
+      "hit1": 14,
+      "hit3": 22,
+      "filter_questions": 8,
+      "filter_compliant": 1,
+      "misses": [
+        "q11",
+        "q18"
+      ]
+    },
+    "dev": {
+      "n": 18,
+      "hit1": 11,
+      "hit3": 16,
+      "filter_questions": 6,
+      "filter_compliant": 0,
+      "misses": [
+        "q11",
+        "q18"
+      ]
+    },
+    "test": {
+      "n": 6,
+      "hit1": 3,
+      "hit3": 6,
+      "filter_questions": 2,
+      "filter_compliant": 1,
+      "misses": []
+    }
+  },
+  "B": {
+    "all": {
+      "n": 24,
+      "hit1": 19,
+      "hit3": 23,
+      "filter_questions": 8,
+      "filter_compliant": 1,
+      "misses": [
+        "q18"
+      ]
+    },
+    "dev": {
+      "n": 18,
+      "hit1": 14,
+      "hit3": 17,
+      "filter_questions": 6,
+      "filter_compliant": 0,
+      "misses": [
+        "q18"
+      ]
+    },
+    "test": {
+      "n": 6,
+      "hit1": 5,
+      "hit3": 6,
+      "filter_questions": 2,
+      "filter_compliant": 1,
+      "misses": []
+    }
+  },
+  "C": {
+    "all": {
+      "n": 24,
+      "hit1": 22,
+      "hit3": 23,
+      "filter_questions": 8,
+      "filter_compliant": 8,
+      "misses": [
+        "q18"
+      ]
+    },
+    "dev": {
+      "n": 18,
+      "hit1": 16,
+      "hit3": 17,
+      "filter_questions": 6,
+      "filter_compliant": 6,
+      "misses": [
+        "q18"
+      ]
+    },
+    "test": {
+      "n": 6,
+      "hit1": 6,
+      "hit3": 6,
+      "filter_questions": 2,
+      "filter_compliant": 2,
+      "misses": []
+    }
+  }
+}

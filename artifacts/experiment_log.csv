@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed_size_stream (cửa sổ ký tự trên toàn văn bản; lùi về khoảng trắng gần nhất),500,50,"document_id, source, page (Điều đầu), pages, year, chuong, dieu_title",none,intfloat/multilingual-e5-base (768d; local; query:/passage:),Baseline: chunk cắt ngang Điều/khoản sẽ làm mất evidence và lẫn nhiều Điều,11/18,16/18,3/6,6/6,772 chunk; 451 chunk trải nhiều Điều; embed 10.82s (MPS); chi phí 0
+B,by_article (1 Điều/chunk; Điều dài tách theo khoản; lặp tiêu đề Điều + câu dẫn khoản),max 1000,0,giống A (pages luôn 1 Điều),none,intfloat/multilingual-e5-base,Giữ ranh giới Điều sẽ tăng Hit@1 và coherence so với A,14/18,17/18,5/6,6/6,600 chunk; embed 9.63s; q18 trượt do điểm a) bị tách khỏi phần còn lại của khoản 2 Điều 36
+C,giống B (dùng chung index B),max 1000,0,giống B,"year = năm nêu trong câu hỏi (chỉ 8 câu có filter); câu không filter chạy như B",intfloat/multilingual-e5-base,Lọc year loại nhiễu phiên bản luật nên tăng Hit@1 cho câu có năm,16/18,17/18,6/6,6/6,Filter tuân thủ dev 6/6 test 2/2 (A/B: 0/6 và 1/2); câu không filter giống hệt B

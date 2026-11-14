@@ -1,0 +1,296 @@
+strategy,id,question,expected_answer,evidence_hit3_auto,top3,grounding_0_2,reason
+A,q19,"Theo Bộ luật Lao động 2019, từ năm 2021 tuổi nghỉ hưu của lao động nữ trong điều kiện lao động bình thường là bao nhiêu?","Đủ 55 tuổi 04 tháng, sau đó mỗi năm tăng thêm 04 tháng cho đến 60 tuổi vào năm 2035",True,"[1] blld-2019 Điều 169: u
+1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội được hưởng lương hưu khi đủ tuổi nghỉ hưu.
+2. Tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường được điều chỉnh theo lộ trình cho đến khi đủ 62 tuổi đối với lao động nam vào năm 2028 và đủ 60 tuổi đối với lao động nữ vào năm 2035.
+Kể từ năm 2021, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường là đủ 60 tuổi 03 tháng đối với lao động nam
+---
+[2] blld-2019 Điều 219: do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao.
+3. Lao động nữ là cán bộ, công chức cấp xã hoặc là người hoạt động không chuyên trách ở xã, phường, thị trấn tham gia bảo hiểm xã hội khi nghỉ việc mà có từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội và đủ tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động thì được hưởng lương hưu.
+4. Điều kiện về tuổi hưởng lương hưu đối với một số trường hợp đặc biệt theo quy định của Chính phủ.”;
+b) Sửa đổi, bổ sung Điều
+---
+[3] blld-2019 Điều 169: thường là đủ 60 tuổi 03 tháng đối với lao động nam và đủ 55 tuổi 04 tháng đối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03 tháng đối với lao động nam và 04 tháng đối với lao động nữ.
+3. Người lao động bị suy giảm khả năng lao động; làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm; làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn có thể nghỉ hưu ở tuổi thấp hơn nhưng không quá 05 tuổi so với quy định tại khoản 2 Điều",,
+A,q20,"Theo Bộ luật Lao động 2012, lao động nam được hưởng lương hưu khi đủ bao nhiêu tuổi?",Nam đủ 60 tuổi,True,"[1] blld-2019 Điều 169: u
+1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội được hưởng lương hưu khi đủ tuổi nghỉ hưu.
+2. Tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường được điều chỉnh theo lộ trình cho đến khi đủ 62 tuổi đối với lao động nam vào năm 2028 và đủ 60 tuổi đối với lao động nữ vào năm 2035.
+Kể từ năm 2021, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường là đủ 60 tuổi 03 tháng đối với lao động nam
+---
+[2] blld-2012 Điều 186: n tiền cho người lao động tương đương với mức đóng bảo hiểm xã hội, bảo hiểm y tế bắt buộc, bảo hiểm thất nghiệp và tiền nghỉ phép hằng năm theo quy định.
+Điều 187. Tuổi nghỉ hưu
+1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội được hưởng lương hưu khi nam đủ 60 tuổi, nữ đủ 55 tuổi.
+2. Người lao động bị suy giảm khả năng lao động; làm công việc đặc biệt nặng nhọc, độc hại, nguy hiểm; làm công việc nặng nhọc, độc hại, nguy hiểm;
+---
+[3] blld-2019 Điều 169: thường là đủ 60 tuổi 03 tháng đối với lao động nam và đủ 55 tuổi 04 tháng đối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03 tháng đối với lao động nam và 04 tháng đối với lao động nữ.
+3. Người lao động bị suy giảm khả năng lao động; làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm; làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn có thể nghỉ hưu ở tuổi thấp hơn nhưng không quá 05 tuổi so với quy định tại khoản 2 Điều",,
+A,q21,Bố mẹ đẻ qua đời thì người lao động được nghỉ có lương mấy ngày?,"03 ngày, hưởng nguyên lương",True,"[1] blld-2019 Điều 115: ôi chết: nghỉ 03 ngày.
+2. Người lao động được nghỉ không hưởng lương 01 ngày và phải thông báo với người sử dụng lao động khi ông nội, bà nội, ông ngoại, bà ngoại, anh, chị, em ruột chết; cha hoặc mẹ kết hôn; anh, chị, em ruột kết hôn.
+3. Ngoài quy định tại khoản 1 và khoản 2 Điều này, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương.
+Điều 116. Thời giờ làm việc, thời giờ nghỉ ngơi đối với người làm công việc có tính chất đặc biệt
+Đối với các công việc có
+---
+[2] blld-2019 Điều 114: ịnh tại khoản 1 Điều 113 của Bộ luật này được tăng thêm tương ứng 01 ngày.
+Điều 115. Nghỉ việc riêng, nghỉ không hưởng lương
+1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương và phải thông báo với người sử dụng lao động trong trường hợp sau đây:
+a) Kết hôn: nghỉ 03 ngày;
+b) Con đẻ, con nuôi kết hôn: nghỉ 01 ngày;
+c) Cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi; cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi của vợ hoặc chồng; vợ hoặc chồng; con đẻ, con nuôi chết: nghỉ 03 ngày.
+2. Người lao động được nghỉ
+---
+[3] blld-2012 Điều 115: hoản 1 Điều này trùng vào ngày nghỉ hằng tuần, thì người lao động được nghỉ bù vào ngày kế tiếp.
+Điều 116. Nghỉ việc riêng, nghỉ không hưởng lương
+1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương trong những trường hợp sau đây:
+a) Kết hôn: nghỉ 03 ngày;
+b) Con kết hôn: nghỉ 01 ngày;
+c) Bố đẻ, mẹ đẻ, bố vợ, mẹ vợ hoặc bố chồng, mẹ chồng chết; vợ chết hoặc chồng chết; con chết: nghỉ 03 ngày.
+2. Người lao động được nghỉ không hưởng lương 01 ngày và phải thông báo với người sử dụng",,
+A,q22,Trợ cấp mất việc làm ít nhất bằng bao nhiêu tháng tiền lương?,Mỗi năm làm việc 01 tháng tiền lương nhưng ít nhất bằng 02 tháng tiền lương,True,"[1] blld-2012 Điều 48: lương để tính trợ cấp thôi việc là tiền lương bình quân theo hợp đồng lao động của 06 tháng liền kề trước khi người lao động thôi việc.
+Điều 49. Trợ cấp mất việc làm
+1. Người sử dụng lao động trả trợ cấp mất việc làm cho người lao động đã làm việc thường xuyên cho mình từ 12 tháng trở lên mà bị mất việc làm theo quy định tại Điều 44 và Điều 45 của Bộ luật này, mỗi năm làm việc trả 01 tháng tiền lương nhưng ít nhất phải bằng 02 tháng tiền lương.
+2. Thời gian làm việc để tính trợ cấp mất việc làm
+---
+[2] blld-2019 Điều 46: lao động thôi việc.
+4. Chính phủ quy định chi tiết Điều này.
+Điều 47. Trợ cấp mất việc làm
+1. Người sử dụng lao động trả trợ cấp mất việc làm cho người lao động đã làm việc thường xuyên cho mình từ đủ 12 tháng trở lên mà bị mất việc làm theo quy định tại khoản 11 Điều 34 của Bộ luật này, cứ mỗi năm làm việc trả 01 tháng tiền lương nhưng ít nhất bằng 02 tháng tiền lương.
+2. Thời gian làm việc để tính trợ cấp mất việc làm là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao
+---
+[3] blld-2019 Điều 47: lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm.
+3. Tiền lương để tính trợ cấp mất việc làm là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động mất việc làm.
+4. Chính phủ quy định chi tiết Điều này.
+Điều 48. Trách nhiệm khi chấm dứt",,
+A,q23,Nếu làm việc vào ban đêm thì người lao động được nghỉ giữa giờ ít nhất bao nhiêu phút?,Ít nhất 45 phút,True,"[1] blld-2012 Điều 107: iện các công việc nhằm bảo vệ tính mạng con người, tài sản của cơ quan, tổ chức, cá nhân trong phòng ngừa và khắc phục hậu quả thiên tai, hỏa hoạn, dịch bệnh và thảm họa.
+THỜI GIỜ NGHỈ NGƠI
+Điều 108. Nghỉ trong giờ làm việc
+1. Người lao động làm việc liên tục 08 giờ hoặc 06 giờ theo quy định tại Điều 104 của Bộ luật này được nghỉ giữa giờ ít nhất 30 phút, tính vào thời giờ làm việc.
+2. Trường hợp làm việc ban đêm, thì người lao động được nghỉ giữa giờ ít nhất 45 phút, tính vào thời giờ làm
+---
+[2] blld-2019 Điều 105: đối với người lao động.
+3. Người sử dụng lao động có trách nhiệm bảo đảm giới hạn thời gian làm việc tiếp xúc với yếu tố nguy hiểm, yếu tố có hại đúng theo quy chuẩn kỹ thuật quốc gia và pháp luật có liên quan.
+Điều 106. Giờ làm việc ban đêm
+Giờ làm việc ban đêm được tính từ 22 giờ đến 06 giờ sáng ngày hôm sau.
+Điều 107. Làm thêm giờ
+1. Thời gian làm thêm giờ là khoảng thời gian làm việc ngoài thời giờ làm việc bình thường theo quy định của pháp luật, thỏa ước lao động tập thể hoặc nội quy lao
+---
+[3] blld-2019 Điều 108: ậu quả thiên tai, hỏa hoạn, dịch bệnh nguy hiểm và thảm họa, trừ trường hợp có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của người lao động theo quy định của pháp luật về an toàn, vệ sinh lao động.
+Điều 109. Nghỉ trong giờ làm việc
+1. Người lao động làm việc theo thời giờ làm việc quy định tại Điều 105 của Bộ luật này từ 06 giờ trở lên trong một ngày thì được nghỉ giữa giờ ít nhất 30 phút liên tục, làm việc ban đêm thì được nghỉ giữa giờ ít nhất 45 phút liên tục.
+Trường hợp người lao động làm",,
+A,q24,Thời hiệu yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp lao động cá nhân là bao lâu?,09 tháng kể từ ngày phát hiện ra hành vi vi phạm,True,"[1] blld-2019 Điều 190: tranh chấp lao động cá nhân là 06 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền và lợi ích hợp pháp của mình bị vi phạm.
+2. Thời hiệu yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp lao động cá nhân là 09 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền và lợi ích hợp pháp của mình bị vi phạm.
+3. Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động cá nhân là 01 năm kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền và
+---
+[2] blld-2019 Điều 189: 89. Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động
+1. Trên cơ sở đồng thuận, các bên tranh chấp có quyền yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp trong trường hợp quy định tại khoản 7 Điều 188 của Bộ luật này. Khi yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp, các bên không được đồng thời yêu cầu Tòa án giải quyết, trừ trường hợp quy định tại khoản 4 Điều này.
+2. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được yêu cầu giải quyết tranh
+---
+[3] blld-2019 Điều 189: hết thời hạn quy định tại khoản 3 Điều này mà Ban trọng tài lao động không ra quyết định giải quyết tranh chấp thì các bên có quyền yêu cầu Tòa án giải quyết.
+5. Trường hợp một trong các bên không thi hành quyết định giải quyết tranh chấp của Ban trọng tài lao động thì các bên có quyền yêu cầu Tòa án giải quyết.
+Điều 190. Thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân
+1. Thời hiệu yêu cầu hòa giải viên lao động thực hiện hòa giải tranh chấp lao động cá nhân là 06 tháng kể từ ngày",,
+B,q19,"Theo Bộ luật Lao động 2019, từ năm 2021 tuổi nghỉ hưu của lao động nữ trong điều kiện lao động bình thường là bao nhiêu?","Đủ 55 tuổi 04 tháng, sau đó mỗi năm tăng thêm 04 tháng cho đến 60 tuổi vào năm 2035",True,"[1] blld-2019 Điều 169: Điều 169. Tuổi nghỉ hưu
+1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội được hưởng lương hưu khi đủ tuổi nghỉ hưu.
+2. Tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường được điều chỉnh theo lộ trình cho đến khi đủ 62 tuổi đối với lao động nam vào năm 2028 và đủ 60 tuổi đối với lao động nữ vào năm 2035.
+Kể từ năm 2021, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường là đủ 60 tuổi 03 tháng đối với lao động nam và đủ 55 tuổi 04 tháng đối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03 tháng đối với lao động nam và 04 tháng đối với lao động nữ.
+---
+[2] blld-2019 Điều 219: Điều 219. Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động
+3. Lao động nữ là cán bộ, công chức cấp xã hoặc là người hoạt động không chuyên trách ở xã, phường, thị trấn tham gia bảo hiểm xã hội khi nghỉ việc mà có từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội và đủ tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động thì được hưởng lương hưu.
+4. Điều kiện về tuổi hưởng lương hưu đối với một số trường hợp đặc biệt theo quy định của Chính phủ.”;
+b) Sửa đổi, bổ sung Điều 55 như sau:
+“Điều 55. Điều kiện hưởng lương hưu khi suy giảm khả năng lao động
+1. Người lao động quy định tại các điểm a, b, c, d, g, h và i khoản 1 Điều 2 của Luật này khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu quy định tại các điểm a, b và c khoản 1 Điều 54 của Luật này nếu thuộc một trong các trường hợp sau đây:
+---
+[3] blld-2019 Điều 219: Điều 219. Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động
+2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu khi thuộc một trong các trường hợp sau đây:
+b) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021;
+c) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao.",,
+B,q20,"Theo Bộ luật Lao động 2012, lao động nam được hưởng lương hưu khi đủ bao nhiêu tuổi?",Nam đủ 60 tuổi,True,"[1] blld-2019 Điều 219: Điều 219. Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động
+2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên, bị suy giảm khả năng lao động từ 61% trở lên được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu quy định tại điểm a và điểm b khoản 2 Điều 54 của Luật này khi thuộc một trong các trường hợp sau đây:
+a) Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động;
+b) Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành.”;
+c) Sửa đổi, bổ sung khoản 1 Điều 73 như sau:
+“ 1. Người lao động hưởng lương hưu khi có đủ các điều kiện sau đây:
+a) Đủ tuổi nghỉ hưu theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động;
+b) Đủ 20 năm đóng bảo hiểm xã hội trở lên.”.
+---
+[2] blld-2019 Điều 219: Điều 219. Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động
+2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu khi thuộc một trong các trường hợp sau đây:
+a) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động, trừ trường hợp Luật Sĩ quan Quân đội nhân dân Việt Nam, Luật Công an nhân dân, Luật Cơ yếu, Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có quy định khác;
+---
+[3] blld-2012 Điều 187: Điều 187. Tuổi nghỉ hưu
+1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội được hưởng lương hưu khi nam đủ 60 tuổi, nữ đủ 55 tuổi.
+2. Người lao động bị suy giảm khả năng lao động; làm công việc đặc biệt nặng nhọc, độc hại, nguy hiểm; làm công việc nặng nhọc, độc hại, nguy hiểm; làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo thuộc danh mục do Chính phủ quy định có thể nghỉ hưu ở tuổi thấp hơn so với quy định tại khoản 1 Điều này.
+3. Người lao động có trình độ chuyên môn kỹ thuật cao, người lao động làm công tác quản lý và một số trường hợp đặc biệt khác có thể nghỉ hưu ở tuổi cao hơn nhưng không quá 05 năm so với quy định tại khoản 1 Điều này.
+4. Chính phủ quy định chi tiết khoản 2 và khoản 3 Điều này.",,
+B,q21,Bố mẹ đẻ qua đời thì người lao động được nghỉ có lương mấy ngày?,"03 ngày, hưởng nguyên lương",True,"[1] blld-2012 Điều 116: Điều 116. Nghỉ việc riêng, nghỉ không hưởng lương
+1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương trong những trường hợp sau đây:
+a) Kết hôn: nghỉ 03 ngày;
+b) Con kết hôn: nghỉ 01 ngày;
+c) Bố đẻ, mẹ đẻ, bố vợ, mẹ vợ hoặc bố chồng, mẹ chồng chết; vợ chết hoặc chồng chết; con chết: nghỉ 03 ngày.
+2. Người lao động được nghỉ không hưởng lương 01 ngày và phải thông báo với người sử dụng lao động khi ông nội, bà nội, ông ngoại, bà ngoại, anh, chị, em ruột chết; bố hoặc mẹ kết hôn; anh, chị, em ruột kết hôn.
+3. Ngoài quy định tại khoản 1 và khoản 2 Điều này người lao động có thể thoả thuận với người sử dụng lao động để nghỉ không hưởng lương.
+---
+[2] blld-2019 Điều 112: Điều 112. Nghỉ lễ, tết
+1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây:
+a) Tết Dương lịch: 01 ngày (ngày 01 tháng 01 dương lịch);
+b) Tết Âm lịch: 05 ngày;
+c) Ngày Chiến thắng: 01 ngày (ngày 30 tháng 4 dương lịch);
+d) Ngày Quốc tế lao động: 01 ngày (ngày 01 tháng 5 dương lịch);
+đ) Quốc khánh: 02 ngày (ngày 02 tháng 9 dương lịch và 01 ngày liền kề trước hoặc sau);
+e) Ngày Giỗ Tổ Hùng Vương: 01 ngày (ngày 10 tháng 3 âm lịch).
+2. Lao động là người nước ngoài làm việc tại Việt Nam ngoài các ngày nghỉ theo quy định tại khoản 1 Điều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước họ.
+3. Hằng năm, căn cứ vào điều kiện thực tế, Thủ tướng Chính phủ quyết định cụ thể ngày nghỉ quy định tại điểm b và điểm đ khoản 1 Điều này.
+---
+[3] blld-2019 Điều 115: Điều 115. Nghỉ việc riêng, nghỉ không hưởng lương
+1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương và phải thông báo với người sử dụng lao động trong trường hợp sau đây:
+a) Kết hôn: nghỉ 03 ngày;
+b) Con đẻ, con nuôi kết hôn: nghỉ 01 ngày;
+c) Cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi; cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi của vợ hoặc chồng; vợ hoặc chồng; con đẻ, con nuôi chết: nghỉ 03 ngày.
+2. Người lao động được nghỉ không hưởng lương 01 ngày và phải thông báo với người sử dụng lao động khi ông nội, bà nội, ông ngoại, bà ngoại, anh, chị, em ruột chết; cha hoặc mẹ kết hôn; anh, chị, em ruột kết hôn.
+3. Ngoài quy định tại khoản 1 và khoản 2 Điều này, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương.",,
+B,q22,Trợ cấp mất việc làm ít nhất bằng bao nhiêu tháng tiền lương?,Mỗi năm làm việc 01 tháng tiền lương nhưng ít nhất bằng 02 tháng tiền lương,True,"[1] blld-2012 Điều 49: Điều 49. Trợ cấp mất việc làm
+1. Người sử dụng lao động trả trợ cấp mất việc làm cho người lao động đã làm việc thường xuyên cho mình từ 12 tháng trở lên mà bị mất việc làm theo quy định tại Điều 44 và Điều 45 của Bộ luật này, mỗi năm làm việc trả 01 tháng tiền lương nhưng ít nhất phải bằng 02 tháng tiền lương.
+2. Thời gian làm việc để tính trợ cấp mất việc làm là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của Luật bảo hiểm xã hội và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc.
+3. Tiền lương để tính trợ cấp mất việc làm là tiền lương bình quân theo hợp đồng lao động của 06 tháng liền kề trước khi người lao động mất việc làm.
+---
+[2] blld-2019 Điều 47: Điều 47. Trợ cấp mất việc làm
+1. Người sử dụng lao động trả trợ cấp mất việc làm cho người lao động đã làm việc thường xuyên cho mình từ đủ 12 tháng trở lên mà bị mất việc làm theo quy định tại khoản 11 Điều 34 của Bộ luật này, cứ mỗi năm làm việc trả 01 tháng tiền lương nhưng ít nhất bằng 02 tháng tiền lương.
+2. Thời gian làm việc để tính trợ cấp mất việc làm là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm.
+3. Tiền lương để tính trợ cấp mất việc làm là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động mất việc làm.
+4. Chính phủ quy định chi tiết Điều này.
+---
+[3] blld-2019 Điều 46: Điều 46. Trợ cấp thôi việc
+1. Khi hợp đồng lao động chấm dứt theo quy định tại các khoản 1, 2, 3, 4, 6, 7, 9 và 10 Điều 34 của Bộ luật này thì người sử dụng lao động có trách nhiệm trả trợ cấp thôi việc cho người lao động đã làm việc thường xuyên cho mình từ đủ 12 tháng trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương, trừ trường hợp đủ điều kiện hưởng lương hưu theo quy định của pháp luật về bảo hiểm xã hội và trường hợp quy định tại điểm e khoản 1 Điều 36 của Bộ luật này.
+2. Thời gian làm việc để tính trợ cấp thôi việc là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm.
+3. Tiền lương để tính trợ cấp thôi việc là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động thôi việc.",,
+B,q23,Nếu làm việc vào ban đêm thì người lao động được nghỉ giữa giờ ít nhất bao nhiêu phút?,Ít nhất 45 phút,True,"[1] blld-2012 Điều 108: Điều 108. Nghỉ trong giờ làm việc
+1. Người lao động làm việc liên tục 08 giờ hoặc 06 giờ theo quy định tại Điều 104 của Bộ luật này được nghỉ giữa giờ ít nhất 30 phút, tính vào thời giờ làm việc.
+2. Trường hợp làm việc ban đêm, thì người lao động được nghỉ giữa giờ ít nhất 45 phút, tính vào thời giờ làm việc.
+3. Ngoài thời gian nghỉ giữa giờ quy định tại khoản 1 và khoản 2 Điều này, người sử dụng lao động quy định thời điểm các đợt nghỉ ngắn và ghi vào nội quy lao động.
+---
+[2] blld-2019 Điều 109: Điều 109. Nghỉ trong giờ làm việc
+1. Người lao động làm việc theo thời giờ làm việc quy định tại Điều 105 của Bộ luật này từ 06 giờ trở lên trong một ngày thì được nghỉ giữa giờ ít nhất 30 phút liên tục, làm việc ban đêm thì được nghỉ giữa giờ ít nhất 45 phút liên tục.
+Trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên thì thời gian nghỉ giữa giờ được tính vào giờ làm việc.
+2. Ngoài thời gian nghỉ quy định tại khoản 1 Điều này, người sử dụng lao động bố trí cho người lao động các đợt nghỉ giải lao và ghi vào nội quy lao động.
+---
+[3] blld-2012 Điều 97: Điều 97. Tiền lương làm thêm giờ, làm việc vào ban đêm
+1. Người lao động làm thêm giờ được trả lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc đang làm như sau:
+a) Vào ngày thường, ít nhất bằng 150%;
+b) Vào ngày nghỉ hằng tuần, ít nhất bằng 200%;
+c) Vào ngày nghỉ lễ, ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể tiền lương ngày lễ, ngày nghỉ có hưởng lương đối với người lao động hưởng lương ngày.
+2. Người lao động làm việc vào ban đêm, thì được trả thêm ít nhất bằng 30% tiền lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc của ngày làm việc bình thường.
+3. Người lao động làm thêm giờ vào ban đêm thì ngoài việc trả lương theo quy định tại khoản 1 và khoản 2 Điều này, người lao động còn được trả thêm 20% tiền lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc làm vào ban ngày.",,
+B,q24,Thời hiệu yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp lao động cá nhân là bao lâu?,09 tháng kể từ ngày phát hiện ra hành vi vi phạm,True,"[1] blld-2019 Điều 190: Điều 190. Thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân
+1. Thời hiệu yêu cầu hòa giải viên lao động thực hiện hòa giải tranh chấp lao động cá nhân là 06 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền và lợi ích hợp pháp của mình bị vi phạm.
+2. Thời hiệu yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp lao động cá nhân là 09 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền và lợi ích hợp pháp của mình bị vi phạm.
+3. Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động cá nhân là 01 năm kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền và lợi ích hợp pháp của mình bị vi phạm.
+---
+[2] blld-2019 Điều 189: Điều 189. Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động
+1. Trên cơ sở đồng thuận, các bên tranh chấp có quyền yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp trong trường hợp quy định tại khoản 7 Điều 188 của Bộ luật này. Khi yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp, các bên không được đồng thời yêu cầu Tòa án giải quyết, trừ trường hợp quy định tại khoản 4 Điều này.
+2. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được yêu cầu giải quyết tranh chấp theo quy định tại khoản 1 Điều này, Ban trọng tài lao động phải được thành lập để giải quyết tranh chấp.
+3. Trong thời hạn 30 ngày kể từ ngày Ban trọng tài lao động được thành lập, Ban trọng tài lao động phải ra quyết định về việc giải quyết tranh chấp và gửi cho các bên tranh chấp.
+---
+[3] blld-2019 Điều 194: Điều 194. Thời hiệu yêu cầu giải quyết tranh chấp lao động tập thể về quyền
+1. Thời hiệu yêu cầu hòa giải viên lao động thực hiện hòa giải tranh chấp lao động tập thể về quyền là 06 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền hợp pháp của mình bị vi phạm.
+2. Thời hiệu yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp lao động tập thể về quyền là 09 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền hợp pháp của mình bị vi phạm.
+3. Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động tập thể về quyền là 01 năm kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền hợp pháp của mình bị vi phạm.",,
+C,q19,"Theo Bộ luật Lao động 2019, từ năm 2021 tuổi nghỉ hưu của lao động nữ trong điều kiện lao động bình thường là bao nhiêu?","Đủ 55 tuổi 04 tháng, sau đó mỗi năm tăng thêm 04 tháng cho đến 60 tuổi vào năm 2035",True,"[1] blld-2019 Điều 169: Điều 169. Tuổi nghỉ hưu
+1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội được hưởng lương hưu khi đủ tuổi nghỉ hưu.
+2. Tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường được điều chỉnh theo lộ trình cho đến khi đủ 62 tuổi đối với lao động nam vào năm 2028 và đủ 60 tuổi đối với lao động nữ vào năm 2035.
+Kể từ năm 2021, tuổi nghỉ hưu của người lao động trong điều kiện lao động bình thường là đủ 60 tuổi 03 tháng đối với lao động nam và đủ 55 tuổi 04 tháng đối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03 tháng đối với lao động nam và 04 tháng đối với lao động nữ.
+---
+[2] blld-2019 Điều 219: Điều 219. Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động
+3. Lao động nữ là cán bộ, công chức cấp xã hoặc là người hoạt động không chuyên trách ở xã, phường, thị trấn tham gia bảo hiểm xã hội khi nghỉ việc mà có từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội và đủ tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động thì được hưởng lương hưu.
+4. Điều kiện về tuổi hưởng lương hưu đối với một số trường hợp đặc biệt theo quy định của Chính phủ.”;
+b) Sửa đổi, bổ sung Điều 55 như sau:
+“Điều 55. Điều kiện hưởng lương hưu khi suy giảm khả năng lao động
+1. Người lao động quy định tại các điểm a, b, c, d, g, h và i khoản 1 Điều 2 của Luật này khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu quy định tại các điểm a, b và c khoản 1 Điều 54 của Luật này nếu thuộc một trong các trường hợp sau đây:
+---
+[3] blld-2019 Điều 219: Điều 219. Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động
+2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu khi thuộc một trong các trường hợp sau đây:
+b) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021;
+c) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao.",,
+C,q20,"Theo Bộ luật Lao động 2012, lao động nam được hưởng lương hưu khi đủ bao nhiêu tuổi?",Nam đủ 60 tuổi,True,"[1] blld-2012 Điều 187: Điều 187. Tuổi nghỉ hưu
+1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội được hưởng lương hưu khi nam đủ 60 tuổi, nữ đủ 55 tuổi.
+2. Người lao động bị suy giảm khả năng lao động; làm công việc đặc biệt nặng nhọc, độc hại, nguy hiểm; làm công việc nặng nhọc, độc hại, nguy hiểm; làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo thuộc danh mục do Chính phủ quy định có thể nghỉ hưu ở tuổi thấp hơn so với quy định tại khoản 1 Điều này.
+3. Người lao động có trình độ chuyên môn kỹ thuật cao, người lao động làm công tác quản lý và một số trường hợp đặc biệt khác có thể nghỉ hưu ở tuổi cao hơn nhưng không quá 05 năm so với quy định tại khoản 1 Điều này.
+4. Chính phủ quy định chi tiết khoản 2 và khoản 3 Điều này.
+---
+[2] blld-2012 Điều 240: Điều 240. Hiệu lực của Bộ luật lao động
+Lao động nữ nghỉ sinh con trước ngày Bộ luật này có hiệu lực, mà đến ngày 01 tháng 5 năm 2013 vẫn đang trong thời gian nghỉ sinh con theo quy định tại Luật bảo hiểm xã hội số 71/2006/QH11 thì thời gian hưởng chế độ khi sinh con được thực hiện theo quy định của Bộ luật này.
+3. Chế độ lao động đối với cán bộ, công chức, viên chức, người thuộc lực lượng quân đội nhân dân, công an nhân dân, tổ chức xã hội khác và xã viên hợp tác xã do các văn bản pháp luật khác quy định nhưng tuỳ từng đối tượng mà được áp dụng một số quy định trong Bộ luật này. Chính phủ ban hành chính sách lương cụ thể để áp dụng đối với cán bộ, công chức, viên chức, người thuộc lực lượng quân đội nhân dân, công an nhân dân.
+---
+[3] blld-2012 Điều 161: Điều 161. Lao động chưa thành niên
+Người lao động chưa thành niên là người lao động dưới 18 tuổi.",,
+C,q21,Bố mẹ đẻ qua đời thì người lao động được nghỉ có lương mấy ngày?,"03 ngày, hưởng nguyên lương",True,"[1] blld-2012 Điều 116: Điều 116. Nghỉ việc riêng, nghỉ không hưởng lương
+1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương trong những trường hợp sau đây:
+a) Kết hôn: nghỉ 03 ngày;
+b) Con kết hôn: nghỉ 01 ngày;
+c) Bố đẻ, mẹ đẻ, bố vợ, mẹ vợ hoặc bố chồng, mẹ chồng chết; vợ chết hoặc chồng chết; con chết: nghỉ 03 ngày.
+2. Người lao động được nghỉ không hưởng lương 01 ngày và phải thông báo với người sử dụng lao động khi ông nội, bà nội, ông ngoại, bà ngoại, anh, chị, em ruột chết; bố hoặc mẹ kết hôn; anh, chị, em ruột kết hôn.
+3. Ngoài quy định tại khoản 1 và khoản 2 Điều này người lao động có thể thoả thuận với người sử dụng lao động để nghỉ không hưởng lương.
+---
+[2] blld-2019 Điều 112: Điều 112. Nghỉ lễ, tết
+1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây:
+a) Tết Dương lịch: 01 ngày (ngày 01 tháng 01 dương lịch);
+b) Tết Âm lịch: 05 ngày;
+c) Ngày Chiến thắng: 01 ngày (ngày 30 tháng 4 dương lịch);
+d) Ngày Quốc tế lao động: 01 ngày (ngày 01 tháng 5 dương lịch);
+đ) Quốc khánh: 02 ngày (ngày 02 tháng 9 dương lịch và 01 ngày liền kề trước hoặc sau);
+e) Ngày Giỗ Tổ Hùng Vương: 01 ngày (ngày 10 tháng 3 âm lịch).
+2. Lao động là người nước ngoài làm việc tại Việt Nam ngoài các ngày nghỉ theo quy định tại khoản 1 Điều này còn được nghỉ thêm 01 ngày Tết cổ truyền dân tộc và 01 ngày Quốc khánh của nước họ.
+3. Hằng năm, căn cứ vào điều kiện thực tế, Thủ tướng Chính phủ quyết định cụ thể ngày nghỉ quy định tại điểm b và điểm đ khoản 1 Điều này.
+---
+[3] blld-2019 Điều 115: Điều 115. Nghỉ việc riêng, nghỉ không hưởng lương
+1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương và phải thông báo với người sử dụng lao động trong trường hợp sau đây:
+a) Kết hôn: nghỉ 03 ngày;
+b) Con đẻ, con nuôi kết hôn: nghỉ 01 ngày;
+c) Cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi; cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi của vợ hoặc chồng; vợ hoặc chồng; con đẻ, con nuôi chết: nghỉ 03 ngày.
+2. Người lao động được nghỉ không hưởng lương 01 ngày và phải thông báo với người sử dụng lao động khi ông nội, bà nội, ông ngoại, bà ngoại, anh, chị, em ruột chết; cha hoặc mẹ kết hôn; anh, chị, em ruột kết hôn.
+3. Ngoài quy định tại khoản 1 và khoản 2 Điều này, người lao động có thể thỏa thuận với người sử dụng lao động để nghỉ không hưởng lương.",,
+C,q22,Trợ cấp mất việc làm ít nhất bằng bao nhiêu tháng tiền lương?,Mỗi năm làm việc 01 tháng tiền lương nhưng ít nhất bằng 02 tháng tiền lương,True,"[1] blld-2012 Điều 49: Điều 49. Trợ cấp mất việc làm
+1. Người sử dụng lao động trả trợ cấp mất việc làm cho người lao động đã làm việc thường xuyên cho mình từ 12 tháng trở lên mà bị mất việc làm theo quy định tại Điều 44 và Điều 45 của Bộ luật này, mỗi năm làm việc trả 01 tháng tiền lương nhưng ít nhất phải bằng 02 tháng tiền lương.
+2. Thời gian làm việc để tính trợ cấp mất việc làm là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của Luật bảo hiểm xã hội và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc.
+3. Tiền lương để tính trợ cấp mất việc làm là tiền lương bình quân theo hợp đồng lao động của 06 tháng liền kề trước khi người lao động mất việc làm.
+---
+[2] blld-2019 Điều 47: Điều 47. Trợ cấp mất việc làm
+1. Người sử dụng lao động trả trợ cấp mất việc làm cho người lao động đã làm việc thường xuyên cho mình từ đủ 12 tháng trở lên mà bị mất việc làm theo quy định tại khoản 11 Điều 34 của Bộ luật này, cứ mỗi năm làm việc trả 01 tháng tiền lương nhưng ít nhất bằng 02 tháng tiền lương.
+2. Thời gian làm việc để tính trợ cấp mất việc làm là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm.
+3. Tiền lương để tính trợ cấp mất việc làm là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động mất việc làm.
+4. Chính phủ quy định chi tiết Điều này.
+---
+[3] blld-2019 Điều 46: Điều 46. Trợ cấp thôi việc
+1. Khi hợp đồng lao động chấm dứt theo quy định tại các khoản 1, 2, 3, 4, 6, 7, 9 và 10 Điều 34 của Bộ luật này thì người sử dụng lao động có trách nhiệm trả trợ cấp thôi việc cho người lao động đã làm việc thường xuyên cho mình từ đủ 12 tháng trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương, trừ trường hợp đủ điều kiện hưởng lương hưu theo quy định của pháp luật về bảo hiểm xã hội và trường hợp quy định tại điểm e khoản 1 Điều 36 của Bộ luật này.
+2. Thời gian làm việc để tính trợ cấp thôi việc là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm.
+3. Tiền lương để tính trợ cấp thôi việc là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động thôi việc.",,
+C,q23,Nếu làm việc vào ban đêm thì người lao động được nghỉ giữa giờ ít nhất bao nhiêu phút?,Ít nhất 45 phút,True,"[1] blld-2012 Điều 108: Điều 108. Nghỉ trong giờ làm việc
+1. Người lao động làm việc liên tục 08 giờ hoặc 06 giờ theo quy định tại Điều 104 của Bộ luật này được nghỉ giữa giờ ít nhất 30 phút, tính vào thời giờ làm việc.
+2. Trường hợp làm việc ban đêm, thì người lao động được nghỉ giữa giờ ít nhất 45 phút, tính vào thời giờ làm việc.
+3. Ngoài thời gian nghỉ giữa giờ quy định tại khoản 1 và khoản 2 Điều này, người sử dụng lao động quy định thời điểm các đợt nghỉ ngắn và ghi vào nội quy lao động.
+---
+[2] blld-2019 Điều 109: Điều 109. Nghỉ trong giờ làm việc
+1. Người lao động làm việc theo thời giờ làm việc quy định tại Điều 105 của Bộ luật này từ 06 giờ trở lên trong một ngày thì được nghỉ giữa giờ ít nhất 30 phút liên tục, làm việc ban đêm thì được nghỉ giữa giờ ít nhất 45 phút liên tục.
+Trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên thì thời gian nghỉ giữa giờ được tính vào giờ làm việc.
+2. Ngoài thời gian nghỉ quy định tại khoản 1 Điều này, người sử dụng lao động bố trí cho người lao động các đợt nghỉ giải lao và ghi vào nội quy lao động.
+---
+[3] blld-2012 Điều 97: Điều 97. Tiền lương làm thêm giờ, làm việc vào ban đêm
+1. Người lao động làm thêm giờ được trả lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc đang làm như sau:
+a) Vào ngày thường, ít nhất bằng 150%;
+b) Vào ngày nghỉ hằng tuần, ít nhất bằng 200%;
+c) Vào ngày nghỉ lễ, ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể tiền lương ngày lễ, ngày nghỉ có hưởng lương đối với người lao động hưởng lương ngày.
+2. Người lao động làm việc vào ban đêm, thì được trả thêm ít nhất bằng 30% tiền lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc của ngày làm việc bình thường.
+3. Người lao động làm thêm giờ vào ban đêm thì ngoài việc trả lương theo quy định tại khoản 1 và khoản 2 Điều này, người lao động còn được trả thêm 20% tiền lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc làm vào ban ngày.",,
+C,q24,Thời hiệu yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp lao động cá nhân là bao lâu?,09 tháng kể từ ngày phát hiện ra hành vi vi phạm,True,"[1] blld-2019 Điều 190: Điều 190. Thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân
+1. Thời hiệu yêu cầu hòa giải viên lao động thực hiện hòa giải tranh chấp lao động cá nhân là 06 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền và lợi ích hợp pháp của mình bị vi phạm.
+2. Thời hiệu yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp lao động cá nhân là 09 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền và lợi ích hợp pháp của mình bị vi phạm.
+3. Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động cá nhân là 01 năm kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền và lợi ích hợp pháp của mình bị vi phạm.
+---
+[2] blld-2019 Điều 189: Điều 189. Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động
+1. Trên cơ sở đồng thuận, các bên tranh chấp có quyền yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp trong trường hợp quy định tại khoản 7 Điều 188 của Bộ luật này. Khi yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp, các bên không được đồng thời yêu cầu Tòa án giải quyết, trừ trường hợp quy định tại khoản 4 Điều này.
+2. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được yêu cầu giải quyết tranh chấp theo quy định tại khoản 1 Điều này, Ban trọng tài lao động phải được thành lập để giải quyết tranh chấp.
+3. Trong thời hạn 30 ngày kể từ ngày Ban trọng tài lao động được thành lập, Ban trọng tài lao động phải ra quyết định về việc giải quyết tranh chấp và gửi cho các bên tranh chấp.
+---
+[3] blld-2019 Điều 194: Điều 194. Thời hiệu yêu cầu giải quyết tranh chấp lao động tập thể về quyền
+1. Thời hiệu yêu cầu hòa giải viên lao động thực hiện hòa giải tranh chấp lao động tập thể về quyền là 06 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền hợp pháp của mình bị vi phạm.
+2. Thời hiệu yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp lao động tập thể về quyền là 09 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền hợp pháp của mình bị vi phạm.
+3. Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động tập thể về quyền là 01 năm kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền hợp pháp của mình bị vi phạm.",,

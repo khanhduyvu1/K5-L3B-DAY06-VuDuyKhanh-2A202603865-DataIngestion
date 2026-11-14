@@ -1,0 +1,59 @@
+{
+  "note": "Lần chạy thứ 2 sau khi sửa chunking B (thay đổi nội dung chunk): chỉ chunk đổi được embed lại, chunk cũ bị xóa.",
+  "index_timing": {
+    "A": {
+      "embedded": 0,
+      "skipped_unchanged": 772,
+      "embed_seconds": 0.0,
+      "store_seconds": 0.03,
+      "upsert": {
+        "before": 772,
+        "written": 0,
+        "deleted_stale": 0,
+        "after": 772
+      }
+    },
+    "B": {
+      "embedded": 19,
+      "skipped_unchanged": 581,
+      "embed_seconds": 0.72,
+      "store_seconds": 0.05,
+      "upsert": {
+        "before": 599,
+        "written": 19,
+        "deleted_stale": 0,
+        "after": 600
+      }
+    }
+  },
+  "reingest_check": {
+    "A": {
+      "embedded": 0,
+      "skipped_unchanged": 772,
+      "embed_seconds": 0.0,
+      "store_seconds": 0.03,
+      "upsert": {
+        "before": 772,
+        "written": 0,
+        "deleted_stale": 0,
+        "after": 772
+      }
+    },
+    "B": {
+      "embedded": 0,
+      "skipped_unchanged": 600,
+      "embed_seconds": 0.0,
+      "store_seconds": 0.04,
+      "upsert": {
+        "before": 600,
+        "written": 0,
+        "deleted_stale": 0,
+        "after": 600
+      }
+    }
+  },
+  "row_counts": {
+    "A": 772,
+    "B": 600
+  }
+}

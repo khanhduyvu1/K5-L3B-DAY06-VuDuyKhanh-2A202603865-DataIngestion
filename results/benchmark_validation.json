@@ -1,0 +1,241 @@
+{
+  "questions": 24,
+  "splits": {
+    "dev": 18,
+    "test": 6
+  },
+  "filter_questions": {
+    "dev": 6,
+    "test": 2
+  },
+  "checks": [
+    {
+      "id": "q01",
+      "source_id": "blld-2019",
+      "page": 25,
+      "evidence_found": true
+    },
+    {
+      "id": "q02",
+      "source_id": "blld-2012",
+      "page": 27,
+      "evidence_found": true
+    },
+    {
+      "id": "q03",
+      "source_id": "blld-2019",
+      "page": 107,
+      "evidence_found": true
+    },
+    {
+      "id": "q04",
+      "source_id": "blld-2012",
+      "page": 106,
+      "evidence_found": true
+    },
+    {
+      "id": "q05",
+      "source_id": "blld-2012",
+      "page": 115,
+      "evidence_found": true
+    },
+    {
+      "id": "q06",
+      "source_id": "blld-2019",
+      "page": 112,
+      "evidence_found": true
+    },
+    {
+      "id": "q07",
+      "source_id": "blld-2019",
+      "page": 113,
+      "evidence_found": true
+    },
+    {
+      "id": "q07",
+      "source_id": "blld-2012",
+      "page": 111,
+      "evidence_found": true
+    },
+    {
+      "id": "q08",
+      "source_id": "blld-2019",
+      "page": 105,
+      "evidence_found": true
+    },
+    {
+      "id": "q08",
+      "source_id": "blld-2012",
+      "page": 104,
+      "evidence_found": true
+    },
+    {
+      "id": "q09",
+      "source_id": "blld-2019",
+      "page": 106,
+      "evidence_found": true
+    },
+    {
+      "id": "q09",
+      "source_id": "blld-2012",
+      "page": 105,
+      "evidence_found": true
+    },
+    {
+      "id": "q10",
+      "source_id": "blld-2019",
+      "page": 98,
+      "evidence_found": true
+    },
+    {
+      "id": "q10",
+      "source_id": "blld-2012",
+      "page": 97,
+      "evidence_found": true
+    },
+    {
+      "id": "q11",
+      "source_id": "blld-2019",
+      "page": 35,
+      "evidence_found": true
+    },
+    {
+      "id": "q12",
+      "source_id": "blld-2019",
+      "page": 139,
+      "evidence_found": true
+    },
+    {
+      "id": "q12",
+      "source_id": "blld-2012",
+      "page": 157,
+      "evidence_found": true
+    },
+    {
+      "id": "q13",
+      "source_id": "blld-2019",
+      "page": 46,
+      "evidence_found": true
+    },
+    {
+      "id": "q13",
+      "source_id": "blld-2012",
+      "page": 48,
+      "evidence_found": true
+    },
+    {
+      "id": "q14",
+      "source_id": "blld-2019",
+      "page": 20,
+      "evidence_found": true
+    },
+    {
+      "id": "q14",
+      "source_id": "blld-2012",
+      "page": 22,
+      "evidence_found": true
+    },
+    {
+      "id": "q15",
+      "source_id": "blld-2019",
+      "page": 46,
+      "evidence_found": true
+    },
+    {
+      "id": "q15",
+      "source_id": "blld-2012",
+      "page": 48,
+      "evidence_found": true
+    },
+    {
+      "id": "q16",
+      "source_id": "blld-2019",
+      "page": 112,
+      "evidence_found": true
+    },
+    {
+      "id": "q16",
+      "source_id": "blld-2012",
+      "page": 115,
+      "evidence_found": true
+    },
+    {
+      "id": "q17",
+      "source_id": "blld-2019",
+      "page": 143,
+      "evidence_found": true
+    },
+    {
+      "id": "q17",
+      "source_id": "blld-2012",
+      "page": 161,
+      "evidence_found": true
+    },
+    {
+      "id": "q18",
+      "source_id": "blld-2019",
+      "page": 36,
+      "evidence_found": true
+    },
+    {
+      "id": "q18",
+      "source_id": "blld-2012",
+      "page": 38,
+      "evidence_found": true
+    },
+    {
+      "id": "q19",
+      "source_id": "blld-2019",
+      "page": 169,
+      "evidence_found": true
+    },
+    {
+      "id": "q20",
+      "source_id": "blld-2012",
+      "page": 187,
+      "evidence_found": true
+    },
+    {
+      "id": "q21",
+      "source_id": "blld-2019",
+      "page": 115,
+      "evidence_found": true
+    },
+    {
+      "id": "q21",
+      "source_id": "blld-2012",
+      "page": 116,
+      "evidence_found": true
+    },
+    {
+      "id": "q22",
+      "source_id": "blld-2019",
+      "page": 47,
+      "evidence_found": true
+    },
+    {
+      "id": "q22",
+      "source_id": "blld-2012",
+      "page": 49,
+      "evidence_found": true
+    },
+    {
+      "id": "q23",
+      "source_id": "blld-2019",
+      "page": 109,
+      "evidence_found": true
+    },
+    {
+      "id": "q23",
+      "source_id": "blld-2012",
+      "page": 108,
+      "evidence_found": true
+    },
+    {
+      "id": "q24",
+      "source_id": "blld-2019",
+      "page": 190,
+      "evidence_found": true
+    }
+  ]
+}

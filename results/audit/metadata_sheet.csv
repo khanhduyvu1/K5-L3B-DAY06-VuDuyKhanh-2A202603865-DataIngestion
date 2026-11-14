@@ -1,0 +1,112 @@
+strategy,id,rank,chunk_id,document_id,source,page,pages,year,chuong,dieu_title,question_filter,filter_ok,text_head,metadata_correct_complete,note
+A,q19,1,A:blld-2019:0299,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,169,[169],2019,12,Tuổi nghỉ hưu,"{""year"": 2019}",True,"u
+1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội được hưởng lương hưu khi đủ tuổi nghỉ hưu",,
+A,q19,2,A:blld-2019:0405,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,219,[219],2019,17,"Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động","{""year"": 2019}",True,"do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao.
+3. Lao động nữ là cán bộ, công chức cấp xã hoặc là người hoạt động không chuyên trách ở xã",,
+A,q19,3,A:blld-2019:0300,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,169,[169],2019,12,Tuổi nghỉ hưu,"{""year"": 2019}",True,"thường là đủ 60 tuổi 03 tháng đối với lao động nam và đủ 55 tuổi 04 tháng đối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03 tháng đối với lao động nam và 04 ",,
+A,q20,1,A:blld-2019:0299,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,169,[169],2019,12,Tuổi nghỉ hưu,"{""year"": 2012}",False,"u
+1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội được hưởng lương hưu khi đủ tuổi nghỉ hưu",,
+A,q20,2,A:blld-2012:0270,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,186,"[186, 187]",2012,12,"Tham gia bảo hiểm xã hội, bảo hiểm y tế","{""year"": 2012}",True,"n tiền cho người lao động tương đương với mức đóng bảo hiểm xã hội, bảo hiểm y tế bắt buộc, bảo hiểm thất nghiệp và tiền nghỉ phép hằng năm theo quy định.
+Điều ",,
+A,q20,3,A:blld-2019:0300,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,169,[169],2019,12,Tuổi nghỉ hưu,"{""year"": 2012}",False,"thường là đủ 60 tuổi 03 tháng đối với lao động nam và đủ 55 tuổi 04 tháng đối với lao động nữ; sau đó, cứ mỗi năm tăng thêm 03 tháng đối với lao động nam và 04 ",,
+A,q21,1,A:blld-2019:0215,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,115,"[115, 116]",2019,7,"Nghỉ việc riêng, nghỉ không hưởng lương",,,"ôi chết: nghỉ 03 ngày.
+2. Người lao động được nghỉ không hưởng lương 01 ngày và phải thông báo với người sử dụng lao động khi ông nội, bà nội, ông ngoại, bà ngo",,
+A,q21,2,A:blld-2019:0214,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,114,"[114, 115]",2019,7,Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc,,,"ịnh tại khoản 1 Điều 113 của Bộ luật này được tăng thêm tương ứng 01 ngày.
+Điều 115. Nghỉ việc riêng, nghỉ không hưởng lương
+1. Người lao động được nghỉ việc ri",,
+A,q21,3,A:blld-2012:0170,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,115,"[115, 116]",2012,7,"Nghỉ lễ, tết",,,"hoản 1 Điều này trùng vào ngày nghỉ hằng tuần, thì người lao động được nghỉ bù vào ngày kế tiếp.
+Điều 116. Nghỉ việc riêng, nghỉ không hưởng lương
+1. Người lao ",,
+A,q22,1,A:blld-2012:0080,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,48,"[48, 49]",2012,3,Trợ cấp thôi việc,,,"lương để tính trợ cấp thôi việc là tiền lương bình quân theo hợp đồng lao động của 06 tháng liền kề trước khi người lao động thôi việc.
+Điều 49. Trợ cấp mất việ",,
+A,q22,2,A:blld-2019:0093,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,46,"[46, 47]",2019,3,Trợ cấp thôi việc,,,"lao động thôi việc.
+4. Chính phủ quy định chi tiết Điều này.
+Điều 47. Trợ cấp mất việc làm
+1. Người sử dụng lao động trả trợ cấp mất việc làm cho người lao động",,
+A,q22,3,A:blld-2019:0094,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,47,"[47, 48]",2019,3,Trợ cấp mất việc làm,,,lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm,,
+A,q23,1,A:blld-2012:0160,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,107,"[107, 108]",2012,7,Làm thêm giờ trong những trường hợp đặc biệt,,,"iện các công việc nhằm bảo vệ tính mạng con người, tài sản của cơ quan, tổ chức, cá nhân trong phòng ngừa và khắc phục hậu quả thiên tai, hỏa hoạn, dịch bệnh và",,
+A,q23,2,A:blld-2019:0199,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,105,"[105, 106, 107]",2019,7,Thời giờ làm việc bình thường,,,"đối với người lao động.
+3. Người sử dụng lao động có trách nhiệm bảo đảm giới hạn thời gian làm việc tiếp xúc với yếu tố nguy hiểm, yếu tố có hại đúng theo quy ",,
+A,q23,3,A:blld-2019:0205,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,108,"[108, 109]",2019,7,Làm thêm giờ trong trường hợp đặc biệt,,,"ậu quả thiên tai, hỏa hoạn, dịch bệnh nguy hiểm và thảm họa, trừ trường hợp có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của người lao động theo quy định của ph",,
+A,q24,1,A:blld-2019:0353,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,190,[190],2019,14,Thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân,,,"tranh chấp lao động cá nhân là 06 tháng kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền và lợi ích hợp pháp của mình bị vi phạm.
+2. Thời hiệu y",,
+A,q24,2,A:blld-2019:0350,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,189,[189],2019,14,Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động,,,"89. Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động
+1. Trên cơ sở đồng thuận, các bên tranh chấp có quyền yêu cầu Hội đồng trọng tài lao ",,
+A,q24,3,A:blld-2019:0352,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,189,"[189, 190]",2019,14,Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động,,,"hết thời hạn quy định tại khoản 3 Điều này mà Ban trọng tài lao động không ra quyết định giải quyết tranh chấp thì các bên có quyền yêu cầu Tòa án giải quyết.
+5",,
+B,q19,1,B:blld-2019:169:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,169,[169],2019,12,Tuổi nghỉ hưu,"{""year"": 2019}",True,"Điều 169. Tuổi nghỉ hưu
+1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội được hưởng lương hư",,
+B,q19,2,B:blld-2019:219:4,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,219,[219],2019,17,"Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động","{""year"": 2019}",True,"Điều 219. Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động
+3. Lao động nữ là cán bộ, công chức cấp xã hoặc là người hoạt động không chuyên tr",,
+B,q19,3,B:blld-2019:219:3,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,219,[219],2019,17,"Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động","{""year"": 2019}",True,"Điều 219. Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động
+2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này nghỉ v",,
+B,q20,1,B:blld-2019:219:6,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,219,[219],2019,17,"Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động","{""year"": 2012}",False,"Điều 219. Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động
+2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này khi ng",,
+B,q20,2,B:blld-2019:219:2,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,219,[219],2019,17,"Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động","{""year"": 2012}",False,"Điều 219. Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động
+2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này nghỉ v",,
+B,q20,3,B:blld-2012:187:0,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,187,[187],2012,12,Tuổi nghỉ hưu,"{""year"": 2012}",True,"Điều 187. Tuổi nghỉ hưu
+1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội được hưởng lương hư",,
+B,q21,1,B:blld-2012:116:0,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,116,[116],2012,7,"Nghỉ việc riêng, nghỉ không hưởng lương",,,"Điều 116. Nghỉ việc riêng, nghỉ không hưởng lương
+1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương trong những trường hợp sau đây:
+a) Kết hôn: n",,
+B,q21,2,B:blld-2019:112:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,112,[112],2019,7,"Nghỉ lễ, tết",,,"Điều 112. Nghỉ lễ, tết
+1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây:
+a) Tết Dương lịch: 01 ngày (ngày 01 tháng 01 d",,
+B,q21,3,B:blld-2019:115:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,115,[115],2019,7,"Nghỉ việc riêng, nghỉ không hưởng lương",,,"Điều 115. Nghỉ việc riêng, nghỉ không hưởng lương
+1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương và phải thông báo với người sử dụng lao động ",,
+B,q22,1,B:blld-2012:049:0,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,49,[49],2012,3,Trợ cấp mất việc làm,,,"Điều 49. Trợ cấp mất việc làm
+1. Người sử dụng lao động trả trợ cấp mất việc làm cho người lao động đã làm việc thường xuyên cho mình từ 12 tháng trở lên mà bị ",,
+B,q22,2,B:blld-2019:047:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,47,[47],2019,3,Trợ cấp mất việc làm,,,"Điều 47. Trợ cấp mất việc làm
+1. Người sử dụng lao động trả trợ cấp mất việc làm cho người lao động đã làm việc thường xuyên cho mình từ đủ 12 tháng trở lên mà ",,
+B,q22,3,B:blld-2019:046:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,46,[46],2019,3,Trợ cấp thôi việc,,,"Điều 46. Trợ cấp thôi việc
+1. Khi hợp đồng lao động chấm dứt theo quy định tại các khoản 1, 2, 3, 4, 6, 7, 9 và 10 Điều 34 của Bộ luật này thì người sử dụng lao",,
+B,q23,1,B:blld-2012:108:0,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,108,[108],2012,7,Nghỉ trong giờ làm việc,,,"Điều 108. Nghỉ trong giờ làm việc
+1. Người lao động làm việc liên tục 08 giờ hoặc 06 giờ theo quy định tại Điều 104 của Bộ luật này được nghỉ giữa giờ ít nhất 3",,
+B,q23,2,B:blld-2019:109:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,109,[109],2019,7,Nghỉ trong giờ làm việc,,,"Điều 109. Nghỉ trong giờ làm việc
+1. Người lao động làm việc theo thời giờ làm việc quy định tại Điều 105 của Bộ luật này từ 06 giờ trở lên trong một ngày thì đ",,
+B,q23,3,B:blld-2012:097:0,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,97,[97],2012,6,"Tiền lương làm thêm giờ, làm việc vào ban đêm",,,"Điều 97. Tiền lương làm thêm giờ, làm việc vào ban đêm
+1. Người lao động làm thêm giờ được trả lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc",,
+B,q24,1,B:blld-2019:190:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,190,[190],2019,14,Thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân,,,"Điều 190. Thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân
+1. Thời hiệu yêu cầu hòa giải viên lao động thực hiện hòa giải tranh chấp lao động cá nhân là",,
+B,q24,2,B:blld-2019:189:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,189,[189],2019,14,Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động,,,"Điều 189. Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động
+1. Trên cơ sở đồng thuận, các bên tranh chấp có quyền yêu cầu Hội đồng trọng tà",,
+B,q24,3,B:blld-2019:194:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,194,[194],2019,14,Thời hiệu yêu cầu giải quyết tranh chấp lao động tập thể về quyền,,,"Điều 194. Thời hiệu yêu cầu giải quyết tranh chấp lao động tập thể về quyền
+1. Thời hiệu yêu cầu hòa giải viên lao động thực hiện hòa giải tranh chấp lao động t",,
+C,q19,1,B:blld-2019:169:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,169,[169],2019,12,Tuổi nghỉ hưu,"{""year"": 2019}",True,"Điều 169. Tuổi nghỉ hưu
+1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội được hưởng lương hư",,
+C,q19,2,B:blld-2019:219:4,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,219,[219],2019,17,"Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động","{""year"": 2019}",True,"Điều 219. Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động
+3. Lao động nữ là cán bộ, công chức cấp xã hoặc là người hoạt động không chuyên tr",,
+C,q19,3,B:blld-2019:219:3,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,219,[219],2019,17,"Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động","{""year"": 2019}",True,"Điều 219. Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động
+2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này nghỉ v",,
+C,q20,1,B:blld-2012:187:0,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,187,[187],2012,12,Tuổi nghỉ hưu,"{""year"": 2012}",True,"Điều 187. Tuổi nghỉ hưu
+1. Người lao động bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội được hưởng lương hư",,
+C,q20,2,B:blld-2012:240:1,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,240,[240],2012,17,Hiệu lực của Bộ luật lao động,"{""year"": 2012}",True,"Điều 240. Hiệu lực của Bộ luật lao động
+Lao động nữ nghỉ sinh con trước ngày Bộ luật này có hiệu lực, mà đến ngày 01 tháng 5 năm 2013 vẫn đang trong thời gian n",,
+C,q20,3,B:blld-2012:161:0,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,161,[161],2012,11,Lao động chưa thành niên,"{""year"": 2012}",True,"Điều 161. Lao động chưa thành niên
+Người lao động chưa thành niên là người lao động dưới 18 tuổi.",,
+C,q21,1,B:blld-2012:116:0,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,116,[116],2012,7,"Nghỉ việc riêng, nghỉ không hưởng lương",,,"Điều 116. Nghỉ việc riêng, nghỉ không hưởng lương
+1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương trong những trường hợp sau đây:
+a) Kết hôn: n",,
+C,q21,2,B:blld-2019:112:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,112,[112],2019,7,"Nghỉ lễ, tết",,,"Điều 112. Nghỉ lễ, tết
+1. Người lao động được nghỉ làm việc, hưởng nguyên lương trong những ngày lễ, tết sau đây:
+a) Tết Dương lịch: 01 ngày (ngày 01 tháng 01 d",,
+C,q21,3,B:blld-2019:115:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,115,[115],2019,7,"Nghỉ việc riêng, nghỉ không hưởng lương",,,"Điều 115. Nghỉ việc riêng, nghỉ không hưởng lương
+1. Người lao động được nghỉ việc riêng mà vẫn hưởng nguyên lương và phải thông báo với người sử dụng lao động ",,
+C,q22,1,B:blld-2012:049:0,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,49,[49],2012,3,Trợ cấp mất việc làm,,,"Điều 49. Trợ cấp mất việc làm
+1. Người sử dụng lao động trả trợ cấp mất việc làm cho người lao động đã làm việc thường xuyên cho mình từ 12 tháng trở lên mà bị ",,
+C,q22,2,B:blld-2019:047:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,47,[47],2019,3,Trợ cấp mất việc làm,,,"Điều 47. Trợ cấp mất việc làm
+1. Người sử dụng lao động trả trợ cấp mất việc làm cho người lao động đã làm việc thường xuyên cho mình từ đủ 12 tháng trở lên mà ",,
+C,q22,3,B:blld-2019:046:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,46,[46],2019,3,Trợ cấp thôi việc,,,"Điều 46. Trợ cấp thôi việc
+1. Khi hợp đồng lao động chấm dứt theo quy định tại các khoản 1, 2, 3, 4, 6, 7, 9 và 10 Điều 34 của Bộ luật này thì người sử dụng lao",,
+C,q23,1,B:blld-2012:108:0,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,108,[108],2012,7,Nghỉ trong giờ làm việc,,,"Điều 108. Nghỉ trong giờ làm việc
+1. Người lao động làm việc liên tục 08 giờ hoặc 06 giờ theo quy định tại Điều 104 của Bộ luật này được nghỉ giữa giờ ít nhất 3",,
+C,q23,2,B:blld-2019:109:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,109,[109],2019,7,Nghỉ trong giờ làm việc,,,"Điều 109. Nghỉ trong giờ làm việc
+1. Người lao động làm việc theo thời giờ làm việc quy định tại Điều 105 của Bộ luật này từ 06 giờ trở lên trong một ngày thì đ",,
+C,q23,3,B:blld-2012:097:0,blld-2012,https://caselaw.vn/van-ban-phap-luat/115774-bo-luat-lao-dong-so-10-2012-qh13-ngay-18-06-2012-cua-quoc-hoi,97,[97],2012,6,"Tiền lương làm thêm giờ, làm việc vào ban đêm",,,"Điều 97. Tiền lương làm thêm giờ, làm việc vào ban đêm
+1. Người lao động làm thêm giờ được trả lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc",,
+C,q24,1,B:blld-2019:190:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,190,[190],2019,14,Thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân,,,"Điều 190. Thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân
+1. Thời hiệu yêu cầu hòa giải viên lao động thực hiện hòa giải tranh chấp lao động cá nhân là",,
+C,q24,2,B:blld-2019:189:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,189,[189],2019,14,Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động,,,"Điều 189. Giải quyết tranh chấp lao động cá nhân của Hội đồng trọng tài lao động
+1. Trên cơ sở đồng thuận, các bên tranh chấp có quyền yêu cầu Hội đồng trọng tà",,
+C,q24,3,B:blld-2019:194:0,blld-2019,https://pbgdpl.cantho.gov.vn/attachment/261,194,[194],2019,14,Thời hiệu yêu cầu giải quyết tranh chấp lao động tập thể về quyền,,,"Điều 194. Thời hiệu yêu cầu giải quyết tranh chấp lao động tập thể về quyền
+1. Thời hiệu yêu cầu hòa giải viên lao động thực hiện hòa giải tranh chấp lao động t",,
